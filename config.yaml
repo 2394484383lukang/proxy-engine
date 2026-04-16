@@ -1,0 +1,3 @@
+port: 7894
+socks-port: 7895
+log-level: info
